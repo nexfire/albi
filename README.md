@@ -1,4 +1,4 @@
-# nexfire-client
+# albi
 
 Dépôt de **distribution** de l'application desktop **Albi** (Nexfire).
 
@@ -8,8 +8,8 @@ Il ne contient **aucun code source** : uniquement les **binaires de release** (i
 
 Les liens stables suivants pointent toujours vers la release marquée « latest » :
 
-- Windows : https://github.com/nexfire/nexfire-client/releases/latest/download/Albi-Preview-Setup.exe
-- Linux (AppImage) : https://github.com/nexfire/nexfire-client/releases/latest/download/Albi-Preview.AppImage
+- Windows : https://github.com/nexfire/albi/releases/latest/download/Albi-Preview-Setup.exe
+- Linux (AppImage) : https://github.com/nexfire/albi/releases/latest/download/Albi-Preview.AppImage
 - macOS : à venir
 
 ## Canal de préversion
